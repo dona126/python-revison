@@ -1,6 +1,6 @@
 Python revision
 
-Topics:
+Topics list:
 1. Variables + Data Types + F-strings
 2. Lists + Tuples + Dictionaries
 3. Conditions + Loops
