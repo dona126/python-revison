@@ -1,0 +1,3 @@
+login: passed
+signup: passed
+dashboard: passed
